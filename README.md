@@ -1,4 +1,4 @@
-# CSE405-Computer-Networks
+# CSE405 Computer Networks
 
 This repository contains my lab work, assignments and project for the Computer Networks course.
 
