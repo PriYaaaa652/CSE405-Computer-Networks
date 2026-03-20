@@ -21,7 +21,7 @@ This course focused on designing, configuring, and testing computer networks. Ke
 * Configuring dynamic routing protocols (EIGRP, OSPF, RIP) for inter-network communication.  
 * Setting up DNS and Web servers accessible across the network.  
 * Verifying connectivity and network performance using simulation and packet analysis tools.  
-* Documenting experiments in detailed lab reports with design, commands, and results. 
+* Documenting experiments in detailed lab reports with design, commands and results. 
 
 ## Tools Used
 
